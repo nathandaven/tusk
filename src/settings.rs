@@ -159,6 +159,7 @@ pub const ACCENTS: &[(&str, u32, u32)] = &[
     // No orange / red / green: those mark edited / deleted / added rows.
     ("Magenta", 0xD66BD0, 0xA83AA0),
     ("Sky", 0x3FB6E8, 0x0B7CB0),
+    ("Boo Schnickle", 0xe6ff99, 0x09c8251),
     ("Theme", 0, 0),
 ];
 
